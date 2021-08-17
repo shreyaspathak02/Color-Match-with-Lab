@@ -11,7 +11,7 @@ Color-  Blue					Yellow
 100	93.04	-0.65	2.59		100	99.21	-25.96	2.11
 
 
-There are millions of special colors that can be created by combining these 7 colors in different ways with their different gradations. 
+There are several new or special colors that can be created by combining these 7 colors in different ways with their different gradations. 
 
 I want to be able to enter the La*b* numbers of any special color and be able to find the best combination of colors/ gradations to provide a formula.
 Example: 
