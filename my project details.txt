@@ -19,7 +19,7 @@ Example:
 "Special House Green" has L = 129.38, a* = -95.9, b* = 19.23
 
 Once the La*b* values above are eneterd in the software/ interface, it should be able to scan all the different color matrix available and output the correct combination required to acheive the above La*b* numbers. 
-In this example referencing from the previous example the formula it should ouput 50 Blue + 0 Yellow. 
+In this example referencing from the previous example the formula it should ouput be 50 Blue + 0 Yellow. 
 	 	L	  a*	  b*
 50 Blue 	52.31	-45.9	-54.98
    +		  +	  +	  +	
